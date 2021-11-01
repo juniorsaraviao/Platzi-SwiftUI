@@ -21,6 +21,8 @@
 		A0FB85CD272F720600B026F6 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85CB272F720600B026F6 /* Images.swift */; };
 		A0FB85CF272F887700B026F6 /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85CE272F887700B026F6 /* TextFields.swift */; };
 		A0FB85D0272F887700B026F6 /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85CE272F887700B026F6 /* TextFields.swift */; };
+		A0FB85D2272F8C7A00B026F6 /* Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85D1272F8C7A00B026F6 /* Dividers.swift */; };
+		A0FB85D3272F8C7A00B026F6 /* Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85D1272F8C7A00B026F6 /* Dividers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,7 @@
 		A0FB85C8272F6BB700B026F6 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		A0FB85CB272F720600B026F6 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		A0FB85CE272F887700B026F6 /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
+		A0FB85D1272F8C7A00B026F6 /* Dividers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dividers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +76,7 @@
 				A0FB85C8272F6BB700B026F6 /* Buttons.swift */,
 				A0FB85CB272F720600B026F6 /* Images.swift */,
 				A0FB85CE272F887700B026F6 /* TextFields.swift */,
+				A0FB85D1272F8C7A00B026F6 /* Dividers.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -193,6 +197,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0FB85B9272F59F900B026F6 /* ContentView.swift in Sources */,
+				A0FB85D2272F8C7A00B026F6 /* Dividers.swift in Sources */,
 				A0FB85B7272F59F900B026F6 /* PlatziApp.swift in Sources */,
 				A0FB85CC272F720600B026F6 /* Images.swift in Sources */,
 				A0FB85C6272F689500B026F6 /* TextMod.swift in Sources */,
@@ -206,6 +211,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0FB85BA272F59F900B026F6 /* ContentView.swift in Sources */,
+				A0FB85D3272F8C7A00B026F6 /* Dividers.swift in Sources */,
 				A0FB85B8272F59F900B026F6 /* PlatziApp.swift in Sources */,
 				A0FB85CD272F720600B026F6 /* Images.swift in Sources */,
 				A0FB85C7272F689500B026F6 /* TextMod.swift in Sources */,
