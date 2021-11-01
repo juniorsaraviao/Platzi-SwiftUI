@@ -29,6 +29,8 @@
 		A0FB85D9272F97A600B026F6 /* ZstackPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85D7272F97A600B026F6 /* ZstackPadding.swift */; };
 		A0FB85DB272FA0BF00B026F6 /* Tabviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85DA272FA0BF00B026F6 /* Tabviews.swift */; };
 		A0FB85DC272FA0BF00B026F6 /* Tabviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85DA272FA0BF00B026F6 /* Tabviews.swift */; };
+		A0FB85DE272FA8FB00B026F6 /* Navigations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85DD272FA8FB00B026F6 /* Navigations.swift */; };
+		A0FB85DF272FA8FB00B026F6 /* Navigations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85DD272FA8FB00B026F6 /* Navigations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +48,7 @@
 		A0FB85D4272F91EB00B026F6 /* HstackVstackSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HstackVstackSpacer.swift; sourceTree = "<group>"; };
 		A0FB85D7272F97A600B026F6 /* ZstackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZstackPadding.swift; sourceTree = "<group>"; };
 		A0FB85DA272FA0BF00B026F6 /* Tabviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabviews.swift; sourceTree = "<group>"; };
+		A0FB85DD272FA8FB00B026F6 /* Navigations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,7 @@
 				A0FB85D4272F91EB00B026F6 /* HstackVstackSpacer.swift */,
 				A0FB85D7272F97A600B026F6 /* ZstackPadding.swift */,
 				A0FB85DA272FA0BF00B026F6 /* Tabviews.swift */,
+				A0FB85DD272FA8FB00B026F6 /* Navigations.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -217,6 +221,7 @@
 				A0FB85C9272F6BB700B026F6 /* Buttons.swift in Sources */,
 				A0FB85CF272F887700B026F6 /* TextFields.swift in Sources */,
 				A0FB85DB272FA0BF00B026F6 /* Tabviews.swift in Sources */,
+				A0FB85DE272FA8FB00B026F6 /* Navigations.swift in Sources */,
 				A0FB85D8272F97A600B026F6 /* ZstackPadding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -234,6 +239,7 @@
 				A0FB85CA272F6BB700B026F6 /* Buttons.swift in Sources */,
 				A0FB85D0272F887700B026F6 /* TextFields.swift in Sources */,
 				A0FB85DC272FA0BF00B026F6 /* Tabviews.swift in Sources */,
+				A0FB85DF272FA8FB00B026F6 /* Navigations.swift in Sources */,
 				A0FB85D9272F97A600B026F6 /* ZstackPadding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
