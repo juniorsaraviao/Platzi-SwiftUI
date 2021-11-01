@@ -31,6 +31,8 @@
 		A0FB85DC272FA0BF00B026F6 /* Tabviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85DA272FA0BF00B026F6 /* Tabviews.swift */; };
 		A0FB85DE272FA8FB00B026F6 /* Navigations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85DD272FA8FB00B026F6 /* Navigations.swift */; };
 		A0FB85DF272FA8FB00B026F6 /* Navigations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85DD272FA8FB00B026F6 /* Navigations.swift */; };
+		A0FB85E1272FB19A00B026F6 /* Players.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85E0272FB19A00B026F6 /* Players.swift */; };
+		A0FB85E2272FB19A00B026F6 /* Players.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85E0272FB19A00B026F6 /* Players.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +51,7 @@
 		A0FB85D7272F97A600B026F6 /* ZstackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZstackPadding.swift; sourceTree = "<group>"; };
 		A0FB85DA272FA0BF00B026F6 /* Tabviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabviews.swift; sourceTree = "<group>"; };
 		A0FB85DD272FA8FB00B026F6 /* Navigations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigations.swift; sourceTree = "<group>"; };
+		A0FB85E0272FB19A00B026F6 /* Players.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Players.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +96,7 @@
 				A0FB85D7272F97A600B026F6 /* ZstackPadding.swift */,
 				A0FB85DA272FA0BF00B026F6 /* Tabviews.swift */,
 				A0FB85DD272FA8FB00B026F6 /* Navigations.swift */,
+				A0FB85E0272FB19A00B026F6 /* Players.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -212,6 +216,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0FB85E1272FB19A00B026F6 /* Players.swift in Sources */,
 				A0FB85B9272F59F900B026F6 /* ContentView.swift in Sources */,
 				A0FB85D2272F8C7A00B026F6 /* Dividers.swift in Sources */,
 				A0FB85B7272F59F900B026F6 /* PlatziApp.swift in Sources */,
@@ -230,6 +235,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0FB85E2272FB19A00B026F6 /* Players.swift in Sources */,
 				A0FB85BA272F59F900B026F6 /* ContentView.swift in Sources */,
 				A0FB85D3272F8C7A00B026F6 /* Dividers.swift in Sources */,
 				A0FB85B8272F59F900B026F6 /* PlatziApp.swift in Sources */,
