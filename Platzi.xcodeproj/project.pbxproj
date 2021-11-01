@@ -19,6 +19,8 @@
 		A0FB85CA272F6BB700B026F6 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85C8272F6BB700B026F6 /* Buttons.swift */; };
 		A0FB85CC272F720600B026F6 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85CB272F720600B026F6 /* Images.swift */; };
 		A0FB85CD272F720600B026F6 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85CB272F720600B026F6 /* Images.swift */; };
+		A0FB85CF272F887700B026F6 /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85CE272F887700B026F6 /* TextFields.swift */; };
+		A0FB85D0272F887700B026F6 /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85CE272F887700B026F6 /* TextFields.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +33,7 @@
 		A0FB85C5272F689500B026F6 /* TextMod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextMod.swift; sourceTree = "<group>"; };
 		A0FB85C8272F6BB700B026F6 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		A0FB85CB272F720600B026F6 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
+		A0FB85CE272F887700B026F6 /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +72,7 @@
 				A0FB85C5272F689500B026F6 /* TextMod.swift */,
 				A0FB85C8272F6BB700B026F6 /* Buttons.swift */,
 				A0FB85CB272F720600B026F6 /* Images.swift */,
+				A0FB85CE272F887700B026F6 /* TextFields.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -193,6 +197,7 @@
 				A0FB85CC272F720600B026F6 /* Images.swift in Sources */,
 				A0FB85C6272F689500B026F6 /* TextMod.swift in Sources */,
 				A0FB85C9272F6BB700B026F6 /* Buttons.swift in Sources */,
+				A0FB85CF272F887700B026F6 /* TextFields.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -205,6 +210,7 @@
 				A0FB85CD272F720600B026F6 /* Images.swift in Sources */,
 				A0FB85C7272F689500B026F6 /* TextMod.swift in Sources */,
 				A0FB85CA272F6BB700B026F6 /* Buttons.swift in Sources */,
+				A0FB85D0272F887700B026F6 /* TextFields.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
