@@ -17,6 +17,8 @@
 		A0FB85C7272F689500B026F6 /* TextMod.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85C5272F689500B026F6 /* TextMod.swift */; };
 		A0FB85C9272F6BB700B026F6 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85C8272F6BB700B026F6 /* Buttons.swift */; };
 		A0FB85CA272F6BB700B026F6 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85C8272F6BB700B026F6 /* Buttons.swift */; };
+		A0FB85CC272F720600B026F6 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85CB272F720600B026F6 /* Images.swift */; };
+		A0FB85CD272F720600B026F6 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FB85CB272F720600B026F6 /* Images.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,7 @@
 		A0FB85B6272F59F900B026F6 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		A0FB85C5272F689500B026F6 /* TextMod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextMod.swift; sourceTree = "<group>"; };
 		A0FB85C8272F6BB700B026F6 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		A0FB85CB272F720600B026F6 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +68,7 @@
 				A0FB85A9272F59F900B026F6 /* Assets.xcassets */,
 				A0FB85C5272F689500B026F6 /* TextMod.swift */,
 				A0FB85C8272F6BB700B026F6 /* Buttons.swift */,
+				A0FB85CB272F720600B026F6 /* Images.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -186,6 +190,7 @@
 			files = (
 				A0FB85B9272F59F900B026F6 /* ContentView.swift in Sources */,
 				A0FB85B7272F59F900B026F6 /* PlatziApp.swift in Sources */,
+				A0FB85CC272F720600B026F6 /* Images.swift in Sources */,
 				A0FB85C6272F689500B026F6 /* TextMod.swift in Sources */,
 				A0FB85C9272F6BB700B026F6 /* Buttons.swift in Sources */,
 			);
@@ -197,6 +202,7 @@
 			files = (
 				A0FB85BA272F59F900B026F6 /* ContentView.swift in Sources */,
 				A0FB85B8272F59F900B026F6 /* PlatziApp.swift in Sources */,
+				A0FB85CD272F720600B026F6 /* Images.swift in Sources */,
 				A0FB85C7272F689500B026F6 /* TextMod.swift in Sources */,
 				A0FB85CA272F6BB700B026F6 /* Buttons.swift in Sources */,
 			);
