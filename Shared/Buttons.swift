@@ -8,11 +8,30 @@
 import SwiftUI
 
 struct Buttons: View {
+//    1. Variables
+//    2. Constantes
+//    3. Funcinoes
     var body: some View {
         VStack {
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+            Button("Mi primer boton", action:{
+                print("Pulse mi boton")
+            })
+            
+            Button("Mi segundo boton") {
+                print("Pulse mi segundo boton")
+            }
+            
+            Button {
+                saludo()
+            } label: {
+                Text("Boton con label como argumento").foregroundColor(Color.white).background(Color.blue)
+            }
+
         }
+    }
+    
+    func saludo(){
+        print("Hola desde un metodo externo")
     }
 }
 
